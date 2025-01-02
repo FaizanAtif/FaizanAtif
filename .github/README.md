@@ -1,6 +1,6 @@
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
+# Hello World!, I'm Faizan, a Frontend Web Developer 👋🏼:
 
-<h2 align="left">🚀 Learning: Next.js, TypeScript, React.js, Tailwind CSS, Python<br>🌐 Projects: Check out my deployed projects on Vercel<br>💼 Available for Hire: I’m ready to work and will give</h2>
+<h3 align="left">🚀 Learning: Next.js, TypeScript, React.js, Tailwind CSS, Python<br>🌐 Projects: Check out my deployed projects on Vercel<br>💼 Available for Hire: I’m ready to work and will give</h3>
 
 ###
 
