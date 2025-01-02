@@ -3,7 +3,7 @@
 <h3 align="left">🚀 Learning: Next.js, TypeScript, React.js, Tailwind CSS, Python<br>🌐 Projects: Check out my deployed projects on Vercel<br>💼 Available for Hire: I’m ready to work and will give</h3>
 
 ###
-
+# 📈 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaizanAtif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaizanAtif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="152" alt="languages graph" />
